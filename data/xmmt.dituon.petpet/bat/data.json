@@ -1,0 +1,12 @@
+{
+    "type": "IMG",
+    "avatar": [{
+        "type": "TO",
+        "pos": [39,35,116,116],
+        "style": ["GRAY"],
+        "round": false,
+        "avatarOnTop": false
+    }],
+    "text": [],
+    "alias": ["加速火把"]
+}

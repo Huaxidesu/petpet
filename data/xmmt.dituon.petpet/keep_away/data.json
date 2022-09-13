@@ -1,12 +1,21 @@
 {
     "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [32,57,323,323],
-        "round": false,
-        "avatarOnTop": false
-    }],
+    "avatar": [
+        {
+            "type": "TO",
+            "pos": [
+                32,
+                57,
+                323,
+                323
+            ],
+            "round": false,
+            "avatarOnTop": false
+        }
+    ],
     "text": [],
-    "alias": ["远离"],
+    "alias": [
+        "远离二次元"
+    ],
     "inRandomList": false
 }

@@ -1,0 +1,12 @@
+{
+    "type": "IMG",
+    "avatar": [{
+        "type": "TO",
+        "pos": [6,72,159,112],
+        "style": [],
+        "round": false,
+        "avatarOnTop": false
+    }],
+    "text": [],
+    "alias": ["打"]
+}

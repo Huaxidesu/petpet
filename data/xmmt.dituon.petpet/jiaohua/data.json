@@ -1,0 +1,12 @@
+{
+    "type": "IMG",
+    "avatar": [{
+        "type": "TO",
+        "pos": [40,86,109,81],
+        "style": [],
+        "round": false,
+        "avatarOnTop": false
+    }],
+    "text": [],
+    "alias": ["狡猾"]
+}

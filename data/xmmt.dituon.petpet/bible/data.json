@@ -1,28 +1,47 @@
 {
     "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [0, 0, "width", "height"],
-        "style": ["GRAY"]
-    }],
-    "text": [{
-        "text": "$txt1[典中典]",
-        "size": 68,
-        "font": "MiSans Bold",
-        "color": "#ffffff",
-        "pos": [0, 0, 640],
-        "align": "CENTER",
-        "wrap": "ZOOM",
-        "position": ["CENTER", "BOTTOM"],
-        "greedy": true
-    }],
+    "avatar": [
+        {
+            "type": "TO",
+            "pos": [
+                0,
+                0,
+                "width",
+                "height"
+            ],
+            "style": [
+                "GRAY"
+            ]
+        }
+    ],
+    "text": [
+        {
+            "text": "$txt1[典中典]",
+            "size": 68,
+            "font": "MiSans Bold",
+            "color": "#ffffff",
+            "pos": [
+                0,
+                50,
+                640
+            ],
+            "align": "CENTER",
+            "wrap": "ZOOM",
+            "position": [
+                "CENTER",
+                "BOTTOM"
+            ]
+        }
+    ],
     "background": {
         "color": "#000000",
         "size": [
-            "avatar0Width", 
-            "avatar0Height + text0Height * 1.4 + 12"
+            "avatar0Width",
+            "avatar0Height + text0Height * 1.4"
         ]
     },
-    "alias": ["圣经", "典中典"],
+    "alias": [
+        "典中典"
+    ],
     "inRandomList": false
 }

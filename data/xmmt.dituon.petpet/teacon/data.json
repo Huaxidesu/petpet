@@ -1,0 +1,12 @@
+{
+    "type": "IMG",
+    "avatar": [{
+        "type": "TO",
+        "pos": [167,177,333,191],
+        "style": [],
+        "round": false,
+        "avatarOnTop": false
+    }],
+    "text": [],
+    "alias": ["teacon"]
+}
