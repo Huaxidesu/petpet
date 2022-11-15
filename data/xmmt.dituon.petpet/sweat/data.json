@@ -3,12 +3,13 @@
   "avatar": [
     {
       "type": "TO",
-      "pos": [969, 24, 216, 216],
+      "pos": [121, 68, 236, 308],
+      "angle": 25,
       "style": [],
       "round": false,
-      "avatarOnTop": true
+      "avatarOnTop": false
     }
   ],
   "text": [],
-  "alias": ["比利比利", "华溪溪帮助"]
+  "alias": ["流汗", "汗", "😓"]
 }
