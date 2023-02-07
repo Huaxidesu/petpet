@@ -1,0 +1,18 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [80, -80, 961, 961],
+      "style": ["GRAY"],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["离婚"],
+  "inRandomList": true
+}
