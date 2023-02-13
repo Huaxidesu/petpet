@@ -3,16 +3,12 @@
   "avatar": [
     {
       "type": "TO",
-      "posType": "ZOOM",
-      "pos": [80, -80, 961, 961],
+      "pos": [0, 0, 800, 877],
       "style": ["GRAY"],
-      "opacity": 1,
-      "rotate": false,
-      "round": true,
+      "round": false,
       "avatarOnTop": false
     }
   ],
   "text": [],
-  "alias": ["离婚"],
-  "inRandomList": true
+  "alias": ["离婚"]
 }
