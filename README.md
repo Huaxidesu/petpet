@@ -11,6 +11,7 @@
 [![](https://jitpack.io/v/Dituon/petpet.svg)](https://jitpack.io/#Dituon/petpet)
 
 一个生成摸摸头GIF的 Mirai 插件，灵感/部分数据来自 [nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)。
+（华溪这里只有自己整的沙雕图片生成嗷）
 
 java 编写，**支持多线程** ：轻量，高效。
 
