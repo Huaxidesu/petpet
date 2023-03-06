@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huaxidesu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huaxidesu)](https://github.com/anuraghazra/github-readme-stats)
 # Petpet
 
 ![Mirai version](https://img.shields.io/badge/Mirai-2.11.0-ff69b4)
