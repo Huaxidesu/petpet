@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                325,
+                291,
+                230,
+                230
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": true
+        }
+    ],
+    "text": [],
+    "alias": [
+        "喷雾","催情大气","催情喷雾","喷"
+    ],
+    "inRandomList": true
+}

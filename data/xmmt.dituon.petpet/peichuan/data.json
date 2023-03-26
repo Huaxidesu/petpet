@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                -7,
+                682,
+                262,
+                191
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": false
+        }
+    ],
+    "text": [],
+    "alias": [
+        "配船","光矛航母","战列舰","萌新求配船","配船图纸"
+    ],
+    "inRandomList": true
+}

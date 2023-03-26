@@ -1,0 +1,25 @@
+{
+  "type": "IMG",
+  "avatar": [
+      {
+          "type": "TO",
+          "posType": "ZOOM",
+          "pos": [
+              151,
+              286,
+              317,
+              202
+          ],
+          "style": [],
+          "opacity": 1,
+          "rotate": false,
+          "round": false,
+          "avatarOnTop": false
+      }
+  ],
+  "text": [],
+  "alias": [
+      "敷衍","直击要害的","雅致的","客观的","中肯的","一阵见血的","形而上学的","创造性的","正确的","真实的","全面的","合理的","深刻的","辩证的","立体的","完整的","巧妙地","立体的","雅俗共赏的"
+  ],
+  "inRandomList": true
+}

@@ -1,0 +1,40 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "FROM",
+            "posType": "ZOOM",
+            "pos": [
+                41,
+                159,
+                150,
+                176
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": true
+        },
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                161,
+                6,
+                180,
+                197
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": true
+        }
+    ],
+    "text": [],
+    "alias": [
+        "大主教","集结部队","损失惨重","我的部队损失惨重","我得重新集结部队","重新集结部队","暗影卫队","检测到关键词","太阳能战斧","拥抱战斗的荣耀","乳主","阿塔尼斯","太阳轰炸","轨道轰炸","五毛炮","亚顿之矛","全部折跃出去","拿好你的太阳能战斧","跟你身上的原子说再见吧"
+    ],
+    "inRandomList": true
+}
