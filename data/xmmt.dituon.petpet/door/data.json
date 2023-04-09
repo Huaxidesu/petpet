@@ -12,5 +12,6 @@
     ],
     "text": [],
     "alias": ["开门","快开门","救命"],
-    "delay": 125
+    "delay": 125,
+    "inRandomList": true
 }

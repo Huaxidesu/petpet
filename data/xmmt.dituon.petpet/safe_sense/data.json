@@ -13,5 +13,6 @@
         "size": 20,
         "align": "CENTER"
     }],
-    "alias": ["安全感"]
+    "alias": ["安全感"],
+    "inRandomList": true
 }

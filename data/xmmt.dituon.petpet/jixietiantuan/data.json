@@ -8,5 +8,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["机械天团","非洲星","欧洲星","非酋","非洲人"]
+    "alias": ["机械天团","非洲星","欧洲星","非酋","非洲人"],
+    "inRandomList": true
 }

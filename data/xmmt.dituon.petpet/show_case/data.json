@@ -9,5 +9,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["展示"]
+    "alias": ["展示"],
+    "inRandomList": true
 }

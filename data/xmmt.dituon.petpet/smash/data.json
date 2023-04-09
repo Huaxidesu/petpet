@@ -9,5 +9,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["砸", "打碎"]
+    "alias": ["砸", "打碎", "打碎"],
+    "inRandomList": true
 }

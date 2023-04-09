@@ -8,5 +8,6 @@
         "fit": "CONTAIN"
     }],
     "text": [],
-    "alias": ["抱歉","给我亲亲"]
+    "alias": ["抱歉","给我亲亲"],
+    "inRandomList": true
 }

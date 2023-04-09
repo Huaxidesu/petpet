@@ -13,5 +13,6 @@
     }],
     "text": [],
     "alias": ["伊蕾娜","赏金","报酬","工资"],
-    "delay": 125
+    "delay": 125,
+    "inRandomList": true
 }

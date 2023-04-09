@@ -37,5 +37,6 @@
   "background": {
     "size": ["avatar0Width*2","avatar0Height*2"]
   },
-  "alias": [ "中心对称","右上对称"]
+  "alias": [ "中心对称","右上对称"],
+  "inRandomList": true
 }

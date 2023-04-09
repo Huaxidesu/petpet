@@ -17,5 +17,6 @@
     }],
     "text": [],
     "delay": 200,
-    "alias": ["胡桃", "放大"]
+    "alias": ["胡桃", "放大"],
+    "inRandomList": true
 }

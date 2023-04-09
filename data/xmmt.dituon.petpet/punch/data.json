@@ -23,5 +23,6 @@
     }
   ],
   "text": [],
-  "alias": ["打拳", "拳"]
+  "alias": ["打拳", "拳"],
+  "inRandomList": true
 }

@@ -16,5 +16,6 @@
         "font": "MiSans Bold",
         "size": 35
     }],
-    "alias": ["炖"]
+    "alias": ["炖"],
+    "inRandomList": true
 }

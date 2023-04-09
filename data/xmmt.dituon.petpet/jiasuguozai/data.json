@@ -8,5 +8,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["加速过载"]
+    "alias": ["加速过载"],
+    "inRandomList": true
 }

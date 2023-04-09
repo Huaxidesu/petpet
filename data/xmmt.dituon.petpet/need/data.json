@@ -7,5 +7,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["需要"]
+    "alias": ["需要"],
+    "inRandomList": true
 }

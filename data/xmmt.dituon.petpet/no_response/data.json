@@ -1,0 +1,15 @@
+{
+  "type": "IMG",
+  "avatar": [{
+      "type": "TO",
+      "pos": [0, 581, 1050, 783 ],
+      "round": false,
+      "avatarOnTop": false,
+      "style": [ 
+        "GRAY"
+      ]
+  }],
+  "text": [],
+  "alias": ["无响应","未响应","脑子无响应","脑子未响应","大脑无响应","大脑未响应","大脑宕机","脑子宕机","思考过度"],
+  "inRandomList": true
+}

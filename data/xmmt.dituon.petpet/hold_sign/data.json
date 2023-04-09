@@ -10,5 +10,6 @@
     }],
     "text": [],
     "alias": ["唐可可", "举牌", "应援"],
-    "delay": 200
+    "delay": 200,
+    "inRandomList": true
 }

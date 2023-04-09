@@ -9,5 +9,6 @@
     }],
     "text": [],
     "alias": ["佩可莉姆","菜单","单页"],
-    "delay": 200
+    "delay": 200,
+    "inRandomList": true
 }

@@ -19,5 +19,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["加好友"]
+    "alias": ["加好友"],
+    "inRandomList": true
 }

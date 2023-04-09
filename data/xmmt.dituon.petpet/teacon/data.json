@@ -8,5 +8,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["teacon","茶杯","杯具","杯子","烧杯"]
+    "alias": ["teacon","茶杯","杯具","杯子","烧杯"],
+    "inRandomList": true
 }

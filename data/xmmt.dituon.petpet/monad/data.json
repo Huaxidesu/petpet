@@ -10,5 +10,6 @@
     }],
     "text": [],
     "alias": ["唐可可","拍","单页","拍桌子"],
-    "delay": 167
+    "delay": 167,
+    "inRandomList": true
 }

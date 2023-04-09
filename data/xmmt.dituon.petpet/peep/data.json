@@ -10,5 +10,6 @@
     }],
     "text": [],
     "alias": ["泷奈", "偷看"],
-    "delay": 67
+    "delay": 67,
+    "inRandomList": true
 }

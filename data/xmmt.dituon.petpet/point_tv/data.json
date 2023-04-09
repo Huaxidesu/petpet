@@ -11,5 +11,6 @@
     }],
     "text": [],
     "alias": ["康纳", "电视","我要看"],
-    "delay": 125
+    "delay": 125,
+    "inRandomList": true
 }

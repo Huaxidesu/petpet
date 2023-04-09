@@ -8,5 +8,6 @@
         "avatarOnTop": false
     }],
     "text": [],
-    "alias": ["拍"]
+    "alias": ["拍"],
+    "inRandomList": true
 }

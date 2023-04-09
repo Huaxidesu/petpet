@@ -38,5 +38,5 @@
     "size": ["avatar0Width*2","avatar0Height*2"]
   },
   "alias": [ "中心对称", "左上对称"],
-  "inRandomList": false
+  "inRandomList": true
 }

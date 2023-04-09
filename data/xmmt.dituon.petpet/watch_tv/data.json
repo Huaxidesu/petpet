@@ -10,5 +10,6 @@
     }],
     "text": [],
     "alias": ["汤姆","电视","笑死","笑","xswl","xs"],
-    "delay": 250
+    "delay": 250,
+    "inRandomList": true
 }

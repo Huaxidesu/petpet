@@ -14,5 +14,6 @@
         "size": 40,
         "align": "CENTER"
     }],
-    "alias": ["阿尼亚","喜欢","siki","suki"]
+    "alias": ["阿尼亚","喜欢","siki","suki"],
+    "inRandomList": true
 }
