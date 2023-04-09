@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                45,
+                159,
+                86,
+                86
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": true
+        }
+    ],
+    "text": [],
+    "alias": [
+        "发电","发癫","别在这里发电","别在这里发癫","别在这发电","鳖载着理发店",""
+    ],
+    "inRandomList": true
+}

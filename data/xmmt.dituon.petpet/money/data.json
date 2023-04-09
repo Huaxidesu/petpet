@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                586,
+                207,
+                264,
+                348
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": false
+        }
+    ],
+    "text": [],
+    "alias": [
+        "钱","狐狐币","日元","门","円","¥","JPY","円","钱币"
+    ],
+    "inRandomList": true
+}

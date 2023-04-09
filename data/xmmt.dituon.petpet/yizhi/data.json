@@ -1,0 +1,40 @@
+{
+  "type": "IMG",
+  "avatar": [
+      {
+          "type": "TO",
+          "posType": "ZOOM",
+          "pos": [
+              72,
+              18,
+              375,
+              375
+          ],
+          "style": [],
+          "opacity": 1,
+          "rotate": false,
+          "round": false,
+          "avatarOnTop": true
+      },
+      {
+          "type": "TO",
+          "posType": "ZOOM",
+          "pos": [
+              306,
+              405,
+              81,
+              81
+          ],
+          "style": [],
+          "opacity": 1,
+          "rotate": false,
+          "round": false,
+          "avatarOnTop": true
+      }
+  ],
+  "text": [],
+  "alias": [
+      "一直","要我一直"
+  ],
+  "inRandomList": true
+}

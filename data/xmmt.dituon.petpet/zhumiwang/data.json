@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                124,
+                147,
+                119,
+                119
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": false
+        }
+    ],
+    "text": [],
+    "alias": [
+        "猪咪王","猪咪","加冕你为猪咪王","柴郡猪猪","柴郡猪咪王","柴郡猪咪","猪猪","🐖🐖","🐖","猪"
+    ],
+    "inRandomList": true
+}

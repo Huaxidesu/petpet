@@ -1,0 +1,25 @@
+{
+  "type": "IMG",
+  "avatar": [
+      {
+          "type": "TO",
+          "posType": "ZOOM",
+          "pos": [
+              345,
+              38,
+              1333,
+              1333
+          ],
+          "style": [],
+          "opacity": 1,
+          "rotate": true,
+          "round": true,
+          "avatarOnTop": true
+      }
+  ],
+  "text": [],
+  "alias": [
+      "转","转转","转头像","旋转","圆","圆周运动"
+  ],
+  "inRandomList": true
+}
