@@ -10,6 +10,5 @@
     }],
     "text": [],
     "alias": ["喝彩","欢呼"],
-    "delay": 125,
-    "inRandomList": true
+    "delay": 125
 }
