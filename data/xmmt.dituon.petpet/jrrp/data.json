@@ -1,0 +1,25 @@
+{
+    "type": "IMG",
+    "avatar": [
+        {
+            "type": "TO",
+            "posType": "ZOOM",
+            "pos": [
+                109,
+                252,
+                59,
+                67
+            ],
+            "style": [],
+            "opacity": 1,
+            "rotate": false,
+            "round": true,
+            "avatarOnTop": true
+        }
+    ],
+    "text": [],
+    "alias": [
+        "jrrp",".jrrp","今日人品",".jrp","jrp"
+    ],
+    "inRandomList": true
+}
