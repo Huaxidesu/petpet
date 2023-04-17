@@ -1,0 +1,18 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [113, 553, 523, 297],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["拍坟头", "坟头", "拍拍你的坟头", "小鲨鱼拍坟头"],
+  "inRandomList": false
+}

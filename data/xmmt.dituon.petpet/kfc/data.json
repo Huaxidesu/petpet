@@ -1,0 +1,124 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [327, 445, 67, 67],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [403, 413, 66, 66],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [346, 319, 68, 68],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [270, 333, 42, 42],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [401, 361, 51, 51],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [325, 383, 70, 70],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [226, 370, 53, 53],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [399, 282, 52, 52],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [10, 9, 83, 83],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [328, 265, 36, 36],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    }
+  ],
+  "text": [],
+  "alias": [
+    "疯狂星期四",
+    "肯德基",
+    "vivo50",
+    "VIVO50",
+    "V50",
+    "v50",
+    "v我50",
+    "V我50",
+    "肯德基疯狂星期四",
+    "肯德基疯狂星期4",
+    "疯狂星期4",
+    "臭菊丝",
+    "菊丝",
+    "富哥们",
+    "富哥"
+  ],
+  "inRandomList": true
+}

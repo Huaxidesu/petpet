@@ -1,1 +1,16 @@
-{"type":"GIF","avatar":[],"text":[],"alias":["觉醒","第四天灾","~","一键觉醒","按~觉醒","第四天灾觉醒"],"inRandomList":false,"delay":67}
+{
+  "type": "GIF",
+  "avatar": [],
+  "text": [],
+  "alias": [
+    "觉醒",
+    "第四天灾",
+    "~",
+    "一键觉醒",
+    "按~觉醒",
+    "第四天灾觉醒",
+    "～"
+  ],
+  "inRandomList": false,
+  "delay": 67
+}

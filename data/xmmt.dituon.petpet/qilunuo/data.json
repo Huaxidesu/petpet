@@ -1,0 +1,40 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [531, 209, 61, 61],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [514, 596, 36, 36],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    }
+  ],
+  "text": [],
+  "alias": [
+    "⑨",
+    "笨⑨",
+    "琪露诺",
+    "笨笨123",
+    "活泼的纯情小姑娘",
+    "Cirno",
+    "冰之妖精",
+    "笨蛋",
+    "あたい",
+    "八嘎",
+    "ばか"
+  ],
+  "inRandomList": true
+}

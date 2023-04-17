@@ -1,1 +1,32 @@
-{"type":"GIF","avatar":[{"type":"TO","posType":"ZOOM","pos":[[14,0,121,139],[14,0,121,139],[14,0,121,139],[14,0,121,139],[14,0,121,139]],"style":[],"opacity":1,"rotate":true,"round":true,"avatarOnTop":false}],"text":[],"alias":["吹风扇","小豆泥吹风扇","狡猾吹风扇","风扇","电扇","电风扇"],"inRandomList":true}
+{
+  "type": "GIF",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [
+        [14, 0, 121, 139],
+        [14, 0, 121, 139],
+        [14, 0, 121, 139],
+        [14, 0, 121, 139],
+        [14, 0, 121, 139]
+      ],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "吹风扇",
+    "小豆泥吹风扇",
+    "狡猾吹风扇",
+    "风扇",
+    "电扇",
+    "电风扇",
+    "海豹吹风扇"
+  ],
+  "inRandomList": true
+}
