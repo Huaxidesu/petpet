@@ -1,0 +1,238 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [143, 50, 89, 89],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1013, 174, 53, 53],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [926, 197, 49, 49],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [752, 111, 66, 66],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [546, 157, 75, 75],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [857, 177, 56, 56],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [952, 53, 75, 75],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1014, 111, 55, 55],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [909, 132, 46, 46],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [785, 164, 75, 75],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [712, 8, 69, 69],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [892, 22, 72, 72],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [825, 91, 80, 80],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [701, 159, 78, 78],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [983, 13, 59, 59],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [959, 128, 45, 45],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [794, -5, 98, 98],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [694, 93, 66, 66],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [628, 15, 84, 84],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [623, 130, 74, 74],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [551, 76, 70, 70],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [471, 61, 66, 66],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [532, 4, 74, 74],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    }
+  ],
+  "text": [],
+  "alias": ["比狗还狗", "狗", "你真狗", "真的是狗"],
+  "inRandomList": true
+}
