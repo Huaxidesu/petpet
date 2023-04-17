@@ -82,7 +82,7 @@
       "avatarOnTop": true
     },
     {
-      "type": "TO",
+      "type": "GROUP",
       "posType": "ZOOM",
       "pos": [10, 9, 83, 83],
       "style": [],
