@@ -1,42 +1,39 @@
 {
-    "type": "IMG",
-    "avatar": [
-        {
-            "type": "TO",
-            "posType": "ZOOM",
-            "pos": [
-                0,
-                28,
-                79,
-                57
-            ],
-            "style": [
-                "MIRROR"
-            ],
-            "opacity": 1,
-            "rotate": false,
-            "round": true,
-            "avatarOnTop": false
-        },
-        {
-            "type": "FROM",
-            "posType": "ZOOM",
-            "pos": [
-                82,
-                28,
-                80,
-                54
-            ],
-            "style": [],
-            "opacity": 1,
-            "rotate": false,
-            "round": true,
-            "avatarOnTop": false
-        }
-    ],
-    "text": [],
-    "alias": [
-        "小豆泥贴贴","狡猾贴贴","猫猫贴贴","互贴","海豹贴贴","猫猫贴贴","贴狡猾","海豹贴","贴海豹"
-    ],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [0, 28, 79, 57],
+      "style": ["MIRROR"],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": false
+    },
+    {
+      "type": "FROM",
+      "posType": "ZOOM",
+      "pos": [82, 28, 80, 54],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "小豆泥贴贴",
+    "狡猾贴贴",
+    "猫猫贴贴",
+    "互贴",
+    "海豹贴贴",
+    "猫猫贴贴",
+    "贴狡猾",
+    "海豹贴",
+    "贴海豹",
+    "狡猾贴"
+  ],
+  "inRandomList": true
 }

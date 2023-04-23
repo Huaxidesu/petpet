@@ -1,0 +1,18 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [3, 16, 763, 448],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["想", "想贴贴", "凯露", "凯露想"],
+  "inRandomList": true
+}

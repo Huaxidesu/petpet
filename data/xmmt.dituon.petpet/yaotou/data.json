@@ -1,0 +1,29 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [218, 720, 402, 323],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "咬头",
+    "咬",
+    "猫猫咬",
+    "猫猫咬头",
+    "啃头",
+    "猫猫啃",
+    "猫猫啃头",
+    "啃西瓜",
+    "猫猫啃西瓜",
+    "猫猫咬西瓜"
+  ],
+  "inRandomList": true
+}
