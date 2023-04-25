@@ -1,0 +1,118 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "GROUP",
+      "posType": "ZOOM",
+      "pos": [58, -2, 182, 182],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1069, 703, 95, 95],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1037, 777, 77, 77],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1147, 700, 85, 85],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [936, 1086, 205, 205],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [747, 880, 255, 255],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [698, 727, 128, 128],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1170, 762, 76, 76],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1061, 523, 128, 128],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [487, 891, 194, 194],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [1071, 768, 128, 128],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
+    }
+  ],
+  "text": [],
+  "alias": ["麦当劳", "我要吃麦当劳", "麦麦", "吃麦当劳", "吃麦麦"],
+  "inRandomList": true
+}

@@ -1,23 +1,30 @@
 {
-    "type": "IMG",
-    "avatar": [
-        {
-            "type": "TO",
-            "posType": "ZOOM",
-            "pos": [
-                -57,
-                -45,
-                140,
-                140
-            ],
-            "style": [],
-            "opacity": 1,
-            "rotate": false,
-            "round": true,
-            "avatarOnTop": true
-        }
-    ],
-    "text": [],
-    "alias": ["gtnh","GT: New Horizons","格雷科技：新视野","GTNH","Dream-MasterXXL","Dream-Master","Martin Robertz","DreamMasterXXL"],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [-57, -45, 140, 140],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    }
+  ],
+  "text": [],
+  "alias": [
+    "gtnh",
+    "GT: New Horizons",
+    "格雷科技：新视野",
+    "GTNH",
+    "Dream-MasterXXL",
+    "Dream-Master",
+    "Martin Robertz",
+    "DreamMasterXXL",
+    "格雷",
+    "GregTech",
+    "gregtech"
+  ],
+  "inRandomList": true
 }
