@@ -4,11 +4,21 @@
     {
       "type": "TO",
       "posType": "ZOOM",
-      "pos": [109, 252, 59, 67],
+      "pos": [112, 257, 65, 71],
       "style": [],
       "opacity": 1,
       "rotate": false,
       "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "GROUP",
+      "posType": "ZOOM",
+      "pos": [5, 5, 85, 85],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
       "avatarOnTop": true
     }
   ],
