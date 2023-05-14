@@ -1,36 +1,23 @@
 {
-    "type": "GIF",
-    "avatar": [
-        {
-            "type": "TO",
-            "posType": "ZOOM",
-            "pos": [[10, 162, 166, 146],[
-                -9,
-                187,
-                238,
-                97
-            ],[
-                56,
-                201,
-                263,
-                165
-            ],[
-                49,
-                238,
-                264,
-                162
-            ]
-            ],
-            "style": [],
-            "opacity": 1,
-            "rotate": false,
-            "round": true,
-            "avatarOnTop": false
-        }
-    ],
-    "text": [],
-    "alias": [
-        "咀嚼","嚼","吃","咖波吃","咖波咬","咖波肯","咖波嚼"
-    ],
-    "inRandomList": true
+  "type": "GIF",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [
+        [10, 162, 166, 146],
+        [-9, 187, 238, 97],
+        [56, 201, 263, 165],
+        [49, 238, 264, 162]
+      ],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["咀嚼", "嚼", "吃", "咖波吃", "咖波咬", "咖波肯", "咖波嚼"],
+  "inRandomList": true
 }

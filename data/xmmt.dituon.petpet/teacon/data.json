@@ -1,13 +1,25 @@
 {
-    "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [167,177,333,191],
-        "style": [],
-        "round": false,
-        "avatarOnTop": false
-    }],
-    "text": [],
-    "alias": ["teacon","茶杯","杯具","杯子","烧杯"],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [167, 177, 333, 191],
+      "style": [],
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "teacon",
+    "茶杯",
+    "杯具",
+    "杯子",
+    "烧杯",
+    "模组开发茶会",
+    "模组开发茶话会",
+    "我的世界模组",
+    "模组开发"
+  ],
+  "inRandomList": true
 }
