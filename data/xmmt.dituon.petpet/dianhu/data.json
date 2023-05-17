@@ -14,7 +14,7 @@
       "style": [],
       "opacity": 1,
       "rotate": false,
-      "round": true,
+      "round": false,
       "avatarOnTop": true
     }
   ],
@@ -26,7 +26,8 @@
     "电弧人",
     "电弧异教",
     "异教徒",
-    "异端"
+    "异端",
+    "电狐"
   ],
   "inRandomList": true,
   "delay": 67
