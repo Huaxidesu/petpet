@@ -1,0 +1,57 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "GROUP",
+      "posType": "ZOOM",
+      "pos": [258, -7, 44, 44],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": true
+    },
+    {
+      "type": "FROM",
+      "posType": "ZOOM",
+      "pos": [2, 31, 32, 23],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [58, 136, 40, 50],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": true,
+      "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [174, 88, 77, 63],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "查岗",
+    "查岚",
+    "阿岚来了",
+    "有阿岚",
+    "阿岗来了",
+    "有阿岗",
+    "闻闻阿岗",
+    "闻闻阿岚"
+  ],
+  "inRandomList": true
+}
