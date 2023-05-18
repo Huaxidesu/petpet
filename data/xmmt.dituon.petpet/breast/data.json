@@ -1,16 +1,22 @@
-
 {
-    "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [181,759,318,418],
-        "round": false,
-        "avatarOnTop": false,
-        "fit": "COVER"
-    }],
-    "text": [],
-    "alias": [
-        "看看你的","cancanneed","can can need"
-    ],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [181, 759, 318, 418],
+      "round": false,
+      "avatarOnTop": false,
+      "fit": "COVER"
+    }
+  ],
+  "text": [],
+  "alias": [
+    "看看你的",
+    "cancanneed",
+    "can can need",
+    "cancanworld",
+    "cancanword",
+    "看看我的"
+  ],
+  "inRandomList": true
 }
