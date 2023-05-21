@@ -1,19 +1,32 @@
 {
-    "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [-34,336,540,540],
-        "round": false,
-        "angle": -25,
-        "avatarOnTop": false
-    },{
-        "type": "TO",
-        "pos": [585,250,540,540],
-        "round": false,
-        "angle": 13,
-        "avatarOnTop": false
-    }],
-    "text": [],
-    "alias": ["撕","撕开"],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "FROM",
+      "posType": "ZOOM",
+      "pos": [385, 401, 251, 245],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    },
+    {
+      "type": "TO",
+      "pos": [-34, 336, 540, 540],
+      "round": false,
+      "angle": -25,
+      "avatarOnTop": false
+    },
+    {
+      "type": "TO",
+      "pos": [585, 250, 540, 540],
+      "round": false,
+      "angle": 13,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["撕", "撕开", "撕成两半"],
+  "inRandomList": true
 }

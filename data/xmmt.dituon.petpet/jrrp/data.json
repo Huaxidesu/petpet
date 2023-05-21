@@ -2,27 +2,36 @@
   "type": "IMG",
   "avatar": [
     {
-      "type": "TO",
-      "posType": "ZOOM",
-      "pos": [112, 257, 65, 71],
-      "style": [],
-      "opacity": 1,
-      "rotate": false,
-      "round": true,
-      "avatarOnTop": true
-    },
-    {
       "type": "GROUP",
       "posType": "ZOOM",
-      "pos": [5, 5, 85, 85],
+      "pos": [0, 0, 82, 82],
       "style": [],
       "opacity": 1,
       "rotate": false,
       "round": false,
       "avatarOnTop": true
+    },
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [133, 299, 51, 51],
+      "style": [],
+      "opacity": 1,
+      "rotate": true,
+      "round": true,
+      "avatarOnTop": true
     }
   ],
   "text": [],
-  "alias": ["jrrp", ".jrrp", "今日人品", ".jrp", "jrp", "。jrrp"],
+  "alias": [
+    "jrrp",
+    ".jrrp",
+    "今日人品",
+    ".jrp",
+    "jrp",
+    "。jrrp",
+    "肥猫转运",
+    "转运"
+  ],
   "inRandomList": true
 }

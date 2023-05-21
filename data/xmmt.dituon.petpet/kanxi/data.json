@@ -1,25 +1,18 @@
 {
-    "type": "IMG",
-    "avatar": [
-        {
-            "type": "TO",
-            "posType": "ZOOM",
-            "pos": [
-                48,
-                162,
-                558,
-                391
-            ],
-            "style": [],
-            "opacity": 1,
-            "rotate": false,
-            "round": false,
-            "avatarOnTop": false
-        }
-    ],
-    "text": [],
-    "alias": [
-        "看戏","miku","初音未来","我去","沃趣","珐露珊","我趣","沃去","woc","卧槽"
-    ],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [48, 162, 558, 391],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["看戏", "miku", "初音未来", "珐露珊"],
+  "inRandomList": true
 }
