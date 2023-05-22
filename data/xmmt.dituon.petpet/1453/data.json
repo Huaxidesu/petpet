@@ -1,25 +1,31 @@
 {
-    "type": "IMG",
-    "avatar": [
-        {
-            "type": "TO",
-            "posType": "ZOOM",
-            "pos": [
-                660,
-                683,
-                174,
-                174
-            ],
-            "style": [],
-            "opacity": 1,
-            "rotate": false,
-            "round": false,
-            "avatarOnTop": false
-        }
-    ],
-    "text": [],
-    "alias": [
-        "1453","神罗","神圣罗马帝国","绿罗","绿萝","君士坦丁堡","精罗","精罗狂喜","精罗落泪","精罗震怒"
-    ],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "posType": "ZOOM",
+      "pos": [660, 683, 174, 174],
+      "style": [],
+      "opacity": 1,
+      "rotate": false,
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "1453",
+    "神罗",
+    "神圣罗马帝国",
+    "绿罗",
+    "绿萝",
+    "君士坦丁堡",
+    "精罗",
+    "精罗狂喜",
+    "精罗落泪",
+    "精罗震怒",
+    "14530529",
+    "1453529"
+  ],
+  "inRandomList": true
 }
