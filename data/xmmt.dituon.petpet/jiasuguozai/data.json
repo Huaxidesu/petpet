@@ -1,13 +1,15 @@
 {
-    "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [197,347,530,425],
-        "style": [],
-        "round": false,
-        "avatarOnTop": false
-    }],
-    "text": [],
-    "alias": ["加速过载"],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [197, 347, 530, 425],
+      "style": [],
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": ["加速过载", "JS", "给你的屁股好好加加速", "给你好好加加速","给你加速"],
+  "inRandomList": true
 }
