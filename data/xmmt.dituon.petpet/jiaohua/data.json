@@ -1,13 +1,25 @@
 {
-    "type": "IMG",
-    "avatar": [{
-        "type": "TO",
-        "pos": [40,86,109,81],
-        "style": [],
-        "round": false,
-        "avatarOnTop": false
-    }],
-    "text": [],
-    "alias": ["狡猾","狡","善","善良","太狡猾了","太善良了","狡猾海豹","狡豹"],
-    "inRandomList": true
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [40, 86, 109, 81],
+      "style": [],
+      "round": false,
+      "avatarOnTop": false
+    }
+  ],
+  "text": [],
+  "alias": [
+    "狡猾",
+    "狡",
+    "善",
+    "善良",
+    "太狡猾了",
+    "太善良了",
+    "狡猾海豹",
+    "狡豹",
+    "大善"
+  ],
+  "inRandomList": true
 }
